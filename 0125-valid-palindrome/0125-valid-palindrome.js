@@ -14,9 +14,5 @@ var isPalindrome = function(s) {
         }
 
     }
-    if (alphaNumericValues === alphaNumericValues.split("").reverse().join("")){
-        return true
-    }else{
-        return false
-    }
+    return (alphaNumericValues === alphaNumericValues.split("").reverse().join(""))
 };
