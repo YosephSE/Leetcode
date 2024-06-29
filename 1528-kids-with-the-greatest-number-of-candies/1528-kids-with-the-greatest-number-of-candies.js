@@ -8,11 +8,7 @@
     let max = Math.max(...candies)
     for(i = 0; i < candies.length; i++){
         candies2[i] += extraCandies
-        if(candies2[i] >= max){
-            res.push(true)
-        }else{
-            res.push(false)
-        }
+        res.push(candies2[i] >= max)
     }
         return res
         
