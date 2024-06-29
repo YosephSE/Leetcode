@@ -65,5 +65,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/YosephSE/Leetcode/tree/master/0135-candy) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YosephSE/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/YosephSE/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
