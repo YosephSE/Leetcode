@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/YosephSE/Leetcode/tree/master/0035-search-insert-position) |
 | [0135-candy](https://github.com/YosephSE/Leetcode/tree/master/0135-candy) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YosephSE/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/YosephSE/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/YosephSE/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
