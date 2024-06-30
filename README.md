@@ -68,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/YosephSE/Leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/YosephSE/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1585-the-kth-factor-of-n](https://github.com/YosephSE/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Array
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/YosephSE/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/YosephSE/Leetcode/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/YosephSE/Leetcode/tree/master/0135-candy) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YosephSE/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
