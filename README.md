@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/YosephSE/Leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/YosephSE/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
 | [1585-the-kth-factor-of-n](https://github.com/YosephSE/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Array
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/YosephSE/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/YosephSE/Leetcode/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/YosephSE/Leetcode/tree/master/0135-candy) |
+| [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YosephSE/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -90,4 +92,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/YosephSE/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
