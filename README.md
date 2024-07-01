@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/YosephSE/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/YosephSE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/YosephSE/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/YosephSE/Leetcode/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/YosephSE/Leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/YosephSE/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/YosephSE/Leetcode/tree/master/0412-fizz-buzz) |
 | [1585-the-kth-factor-of-n](https://github.com/YosephSE/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Array
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/YosephSE/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
