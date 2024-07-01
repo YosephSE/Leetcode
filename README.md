@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YosephSE/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/YosephSE/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/YosephSE/Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/YosephSE/Leetcode/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/YosephSE/Leetcode/tree/master/0135-candy) |
 | [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/YosephSE/Leetcode/tree/master/0283-move-zeroes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YosephSE/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
