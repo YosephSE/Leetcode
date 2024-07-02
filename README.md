@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YosephSE/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/YosephSE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/YosephSE/Leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YosephSE/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/YosephSE/Leetcode/tree/master/0135-candy) |
 | [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YosephSE/Leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YosephSE/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YosephSE/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -97,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/YosephSE/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YosephSE/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YosephSE/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YosephSE/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Simulation
 |  |
 | ------- |
