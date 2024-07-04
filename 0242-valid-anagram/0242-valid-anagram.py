@@ -4,6 +4,4 @@ class Solution:
         t = list(t)
         s.sort()
         t.sort()
-        if s == t:
-            return True
-        return False
+        return s == t
