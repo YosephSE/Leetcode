@@ -1,7 +1,13 @@
 class Solution:
-    def isAnagram(self, s: str, t: str) -> bool:
-        s = list(s)
+    def isAnagram(self,s, t):
+        if len(s) != len(t):
+            return False
         t = list(t)
-        s.sort()
-        t.sort()
-        return s == t
+        for item in s:
+            if item not in t:
+                return False
+            else:
+                t.remove(item)
+        return True
+        
+
