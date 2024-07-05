@@ -14,9 +14,13 @@ var isPalindrome = function(s) {
         }
 
     }
-    if (alphaNumericValues === alphaNumericValues.split("").reverse().join("")){
-        return true
-    }else{
-        return false
+    let left = 0, right = alphaNumericValues.length - 1
+    while (left < right){
+        if (alphaNumericValues[left] !== alphaNumericValues[right]){
+            return false
+        }
+        left++
+        right--
     }
+    return true
 };
