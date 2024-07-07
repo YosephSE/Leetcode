@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/YosephSE/Leetcode/tree/master/0412-fizz-buzz) |
 | [1585-the-kth-factor-of-n](https://github.com/YosephSE/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2383-add-two-integers](https://github.com/YosephSE/Leetcode/tree/master/2383-add-two-integers) |
 ## Array
 |  |
 | ------- |
