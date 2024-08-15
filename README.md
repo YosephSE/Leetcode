@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/YosephSE/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YosephSE/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1894-merge-strings-alternately](https://github.com/YosephSE/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/YosephSE/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/YosephSE/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/YosephSE/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1894-merge-strings-alternately](https://github.com/YosephSE/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YosephSE/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YosephSE/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/YosephSE/Leetcode/tree/master/3194-find-words-containing-character) |
