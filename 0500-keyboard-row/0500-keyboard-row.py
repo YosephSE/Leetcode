@@ -1,10 +1,10 @@
 class Solution:
-    def findWords(self, words: List[str]) -> List[str]:
+    def findWords(self, words):
         res = []
-        line1, line2, line3= set("qwertyuiop"), set("asdfghjkl"), set("zxcvbnm")
-        for word in words:
-            w = set(word.lower())
-            if w <= line1 or w <= line2 or w <= line3:
-                res.append(word)
+        for i in words:
+            word = i.lower()
+            if re.match("^[qwertyuiop]+$", word) or re.match("^[asdfghjkl]+$", word) or re.match("^[zxcvbnm]+$", word):
+                res.append(i)
+
         return res
         
