@@ -1,7 +1,7 @@
 var map = function(arr, fn) {
-  const transformedArr = [];
-  for (let i = 0; i < arr.length; i++) {
-    transformedArr[i] = fn(arr[i], i);
+  const res = [];
+  for (let i in arr) {
+    res.push(fn(arr[i], Number(i)));
   }
-  return transformedArr;
+  return res;
 };
