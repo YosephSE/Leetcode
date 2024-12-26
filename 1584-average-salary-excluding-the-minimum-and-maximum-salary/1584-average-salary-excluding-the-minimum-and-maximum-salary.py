@@ -1,10 +1,17 @@
 class Solution:
     def average(self, salary: List[int]) -> float:
         res = 0
-        salary.remove(max(salary))
-        salary.remove(min(salary))
+        minimum = float('inf')
+        maximum = 0
+
+        for i in salary:
+            if i > maximum:
+                maximum = i
+            if i < minimum:
+                minimum = i
         for i in salary:
             res += i
-        return res / len(salary)
+        
+        return (res - maximum - minimum) / (len(salary) - 2)
         
         
