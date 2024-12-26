@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/YosephSE/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YosephSE/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YosephSE/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2470-removing-stars-from-a-string](https://github.com/YosephSE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/YosephSE/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/YosephSE/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/YosephSE/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/YosephSE/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YosephSE/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YosephSE/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2470-removing-stars-from-a-string](https://github.com/YosephSE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YosephSE/Leetcode/tree/master/0020-valid-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/YosephSE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
