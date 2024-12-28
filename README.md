@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/YosephSE/Leetcode/tree/master/0412-fizz-buzz) |
+| [1708-design-parking-system](https://github.com/YosephSE/Leetcode/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/YosephSE/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YosephSE/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YosephSE/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/YosephSE/Leetcode/tree/master/0169-majority-element) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YosephSE/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1708-design-parking-system](https://github.com/YosephSE/Leetcode/tree/master/1708-design-parking-system) |
 ## Stack
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/YosephSE/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [1708-design-parking-system](https://github.com/YosephSE/Leetcode/tree/master/1708-design-parking-system) |
 ## Hash Function
 |  |
 | ------- |
