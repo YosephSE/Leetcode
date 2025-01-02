@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YosephSE/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YosephSE/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2470-removing-stars-from-a-string](https://github.com/YosephSE/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2594-count-pairs-of-similar-strings](https://github.com/YosephSE/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3194-find-words-containing-character](https://github.com/YosephSE/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/YosephSE/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/YosephSE/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/YosephSE/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YosephSE/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YosephSE/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2594-count-pairs-of-similar-strings](https://github.com/YosephSE/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3194-find-words-containing-character](https://github.com/YosephSE/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Greedy
 |  |
@@ -186,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/YosephSE/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YosephSE/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2594-count-pairs-of-similar-strings](https://github.com/YosephSE/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3412-permutation-difference-between-two-strings](https://github.com/YosephSE/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/YosephSE/Leetcode/tree/master/0389-find-the-difference) |
+| [2594-count-pairs-of-similar-strings](https://github.com/YosephSE/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YosephSE/Leetcode/tree/master/0169-majority-element) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YosephSE/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1708-design-parking-system](https://github.com/YosephSE/Leetcode/tree/master/1708-design-parking-system) |
+| [2594-count-pairs-of-similar-strings](https://github.com/YosephSE/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 ## Stack
 |  |
 | ------- |
