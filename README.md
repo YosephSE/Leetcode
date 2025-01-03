@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/YosephSE/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/YosephSE/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/YosephSE/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1833-find-the-highest-altitude](https://github.com/YosephSE/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2058-concatenation-of-array](https://github.com/YosephSE/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YosephSE/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YosephSE/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/YosephSE/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Trie
 |  |
