@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/YosephSE/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/YosephSE/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/YosephSE/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0990-verifying-an-alien-dictionary](https://github.com/YosephSE/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1018-largest-perimeter-triangle](https://github.com/YosephSE/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1319-unique-number-of-occurrences](https://github.com/YosephSE/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YosephSE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/YosephSE/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
