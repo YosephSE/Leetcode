@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/YosephSE/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YosephSE/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/YosephSE/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/YosephSE/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0990-verifying-an-alien-dictionary](https://github.com/YosephSE/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YosephSE/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/YosephSE/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/YosephSE/Leetcode/tree/master/0414-third-maximum-number) |
 | [1018-largest-perimeter-triangle](https://github.com/YosephSE/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YosephSE/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/YosephSE/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
