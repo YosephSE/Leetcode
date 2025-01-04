@@ -1,14 +1,17 @@
 class Solution:
     def kthFactor(self, n: int, k: int) -> int:
-        factors = []
-        for i in range(1, int(n / 2 + 1)):
-            if len(factors) == k:
-                return factors[-1]
+        fac = []
+        for i in range(1, n // 2 + 1):
+
+            if len(fac) == k:
+                return fac[k - 1]
             elif n % i == 0:
-                factors.append(i)
-            if len(factors) == k:
-                return factors[-1]
-        factors.append(n)
-        if len(factors) == k:
-            return factors[-1]
+                fac.append(i)
+        if len(fac) >= k:
+            return fac[k-1]
+        elif len(fac) == k - 1:
+            return n
         return -1
+            
+            
+        
