@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/YosephSE/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/YosephSE/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/YosephSE/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2358-number-of-ways-to-split-array](https://github.com/YosephSE/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/YosephSE/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/YosephSE/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3194-find-words-containing-character](https://github.com/YosephSE/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/YosephSE/Leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/YosephSE/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2358-number-of-ways-to-split-array](https://github.com/YosephSE/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Trie
 |  |
 | ------- |
