@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/YosephSE/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/YosephSE/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/YosephSE/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/YosephSE/Leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/YosephSE/Leetcode/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/YosephSE/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/YosephSE/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/YosephSE/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/YosephSE/Leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/YosephSE/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/YosephSE/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1585-the-kth-factor-of-n](https://github.com/YosephSE/Leetcode/tree/master/1585-the-kth-factor-of-n) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/YosephSE/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/YosephSE/Leetcode/tree/master/0415-add-strings) |
 | [1708-design-parking-system](https://github.com/YosephSE/Leetcode/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/YosephSE/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/YosephSE/Leetcode/tree/master/2058-concatenation-of-array) |
