@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YosephSE/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0941-sort-array-by-parity](https://github.com/YosephSE/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/YosephSE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/YosephSE/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/YosephSE/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/YosephSE/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/YosephSE/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/YosephSE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YosephSE/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/YosephSE/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YosephSE/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/YosephSE/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/YosephSE/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/YosephSE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2594-count-pairs-of-similar-strings](https://github.com/YosephSE/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3412-permutation-difference-between-two-strings](https://github.com/YosephSE/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/YosephSE/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/YosephSE/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/YosephSE/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/YosephSE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Simulation
 |  |
 | ------- |
