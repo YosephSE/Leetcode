@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/YosephSE/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/YosephSE/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/YosephSE/Leetcode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/YosephSE/Leetcode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/YosephSE/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0990-verifying-an-alien-dictionary](https://github.com/YosephSE/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1018-largest-perimeter-triangle](https://github.com/YosephSE/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YosephSE/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/YosephSE/Leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
