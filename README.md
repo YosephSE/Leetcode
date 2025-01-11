@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/YosephSE/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/YosephSE/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/YosephSE/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/YosephSE/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YosephSE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YosephSE/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -357,5 +358,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1791-richest-customer-wealth](https://github.com/YosephSE/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/YosephSE/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
