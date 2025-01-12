@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/YosephSE/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YosephSE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/YosephSE/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YosephSE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/YosephSE/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/YosephSE/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/YosephSE/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YosephSE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/YosephSE/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/YosephSE/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YosephSE/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/YosephSE/Leetcode/tree/master/0792-binary-search) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YosephSE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/YosephSE/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YosephSE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/YosephSE/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YosephSE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
