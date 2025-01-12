@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/YosephSE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/YosephSE/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YosephSE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/YosephSE/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YosephSE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/YosephSE/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/YosephSE/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/YosephSE/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/YosephSE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/YosephSE/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YosephSE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/YosephSE/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Simulation
 |  |
 | ------- |
