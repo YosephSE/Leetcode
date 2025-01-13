@@ -1,11 +1,7 @@
 class Solution(object):
     def countGoodSubstrings(self, s):
-        l, m, r = 0, 1, 2
         res = 0
-        while r < len(s):
-            if s[l] != s[m] and s[m] != s[r] and s[l] != s[r]:
+        for i in range(len(s) - 2):
+            if s[i] != s[i + 1] and s[i] != s[i + 2] and s[i + 1] != s[i + 2]:
                 res += 1
-            l += 1
-            m += 1
-            r += 1
         return res
