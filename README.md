@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/YosephSE/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/YosephSE/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/YosephSE/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YosephSE/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YosephSE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/YosephSE/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/YosephSE/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/YosephSE/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2594-count-pairs-of-similar-strings](https://github.com/YosephSE/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YosephSE/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/YosephSE/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/YosephSE/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/YosephSE/Leetcode/tree/master/0389-find-the-difference) |
 | [2594-count-pairs-of-similar-strings](https://github.com/YosephSE/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YosephSE/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
