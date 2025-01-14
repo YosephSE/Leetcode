@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YosephSE/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/YosephSE/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YosephSE/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/YosephSE/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/YosephSE/Leetcode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/YosephSE/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -389,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/YosephSE/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/YosephSE/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/YosephSE/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
