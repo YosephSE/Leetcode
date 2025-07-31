@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/YosephSE/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YosephSE/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/YosephSE/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YosephSE/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/YosephSE/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/YosephSE/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YosephSE/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YosephSE/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/YosephSE/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YosephSE/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/YosephSE/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/YosephSE/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/YosephSE/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/YosephSE/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
