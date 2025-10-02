@@ -1,18 +1,22 @@
 class Solution:
     def interpret(self, command: str) -> str:
+        map = {
+            "G": "G",
+            "()": "o",
+            "(al)": "al"
+        }
         res = []
         i = 0
         while i < len(command):
             if command[i] == "G":
-                res.append("G")
                 i += 1
-            elif command[i:i + 2] == "()":
-                res.append("o")
+                res.append("G")
+            elif command[i: i + 2] == "()":
                 i += 2
-            else:
-                res.append("al")
+                res.append("o")
+            elif command[i: i + 4] == "(al)":
                 i += 4
-        return ''.join(res)
+                res.append("al")
 
-
+        return "".join(res)
         
