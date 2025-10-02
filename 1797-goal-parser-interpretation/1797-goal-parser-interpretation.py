@@ -1,10 +1,5 @@
 class Solution:
     def interpret(self, command: str) -> str:
-        map = {
-            "G": "G",
-            "()": "o",
-            "(al)": "al"
-        }
         res = []
         i = 0
         while i < len(command):
