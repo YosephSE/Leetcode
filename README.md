@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/YosephSE/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YosephSE/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2383-add-two-integers](https://github.com/YosephSE/Leetcode/tree/master/2383-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/YosephSE/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/YosephSE/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-strictly-palindromic-number](https://github.com/YosephSE/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/YosephSE/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/YosephSE/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2413-smallest-even-multiple](https://github.com/YosephSE/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2491-smallest-even-multiple](https://github.com/YosephSE/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Binary Search
 |  |
