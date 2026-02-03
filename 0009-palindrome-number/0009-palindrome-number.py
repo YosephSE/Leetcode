@@ -1,5 +1,6 @@
-class Solution(object):
-    def isPalindrome(self, x):
-        if ''.join(reversed(str(x))) == str(x):
-            return True
-        return False
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        if x < 0:
+            return False
+        return ''.join((list(str(x))[::-1])) == str(x)
+        
