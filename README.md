@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/YosephSE/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YosephSE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/YosephSE/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/YosephSE/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/YosephSE/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/YosephSE/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/YosephSE/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/YosephSE/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/YosephSE/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/YosephSE/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/YosephSE/Leetcode/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/YosephSE/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/YosephSE/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/YosephSE/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2358-number-of-ways-to-split-array](https://github.com/YosephSE/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Trie
